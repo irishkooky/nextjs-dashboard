@@ -13,7 +13,7 @@ export function Button({ children, className, ...rest }: ButtonProps) {
         className
       )}
     >
-      {children}1
+      {children}12
     </button>
   );
 }
